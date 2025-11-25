@@ -31,6 +31,7 @@ cd password-strength-analyzer
 
 ### ✔️ Code Preview
 ![Password Checker Code](screenshots/code.png)
+<img width="734" height="535" alt="image" src="https://github.com/user-attachments/assets/1704a8d0-8aa1-4208-b4df-5cd71687036c" />
 
 ### ✔️ Program Output
 ![Password Checker Output](screenshots/output.png)
