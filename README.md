@@ -27,3 +27,10 @@ No external libraries required — pure Python.
 ```bash
 git clone https://github.com/YOUR_USERNAME/password-strength-analyzer.git
 cd password-strength-analyzer
+## 📸 Screenshots
+
+### ✔️ Code Preview
+![Password Checker Code](screenshots/code.png)
+
+### ✔️ Program Output
+![Password Checker Output](screenshots/output.png)
